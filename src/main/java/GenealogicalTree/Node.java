@@ -9,9 +9,9 @@ public class Node {
         this.hum2 = hum2;
     }
 
-    People hum1;
-    int relation;
-    People hum2;
+    public People hum1;
+    public int relation;
+    public People hum2;
 
     @Override
     public String toString() {

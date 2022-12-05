@@ -4,7 +4,7 @@ import GenealogicalTree.*;
 
 import java.util.ArrayList;
 
-class ParentResearch extends Research {
+public class ParentResearch extends Research {
 
     public ParentResearch(GenTree pd, People hum) {
         super(pd, hum);
