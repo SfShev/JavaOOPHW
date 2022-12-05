@@ -2,7 +2,7 @@ package GenealogicalTree;
 
 import java.util.ArrayList;
 
-class GenTree implements DataKeeper {
+public class GenTree implements DataKeeper {
     private ArrayList<Node> tree = new ArrayList<>();
 
     @Override

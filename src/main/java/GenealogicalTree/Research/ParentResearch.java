@@ -1,4 +1,6 @@
-package GenealogicalTree;
+package GenealogicalTree.Research;
+
+import GenealogicalTree.*;
 
 import java.util.ArrayList;
 

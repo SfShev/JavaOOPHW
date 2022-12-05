@@ -1,5 +1,7 @@
 package GenealogicalTree;
 
+import GenealogicalTree.Research.ChildResearch;
+
 public class Main {
     public static void main(String[] args) {
 

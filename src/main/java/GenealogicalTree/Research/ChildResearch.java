@@ -1,4 +1,10 @@
-package GenealogicalTree;
+package GenealogicalTree.Research;
+
+import GenealogicalTree.GenTree;
+import GenealogicalTree.Node;
+import GenealogicalTree.People;
+import GenealogicalTree.Relationship;
+import GenealogicalTree.Research.Research;
 
 import java.util.ArrayList;
 

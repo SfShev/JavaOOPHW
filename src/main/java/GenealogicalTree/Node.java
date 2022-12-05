@@ -1,7 +1,7 @@
 package GenealogicalTree;
 
 
-class Node {
+public class Node {
 
     public Node(People hum1, int relation, People hum2) {
         this.hum1 = hum1;
