@@ -6,6 +6,7 @@ public class Program {
         FilmFinder finder = new FilmFinder(db1);
 
 
+
         System.out.println(finder.findFilm("Крепкий орешек"));
         System.out.println(finder.getFilmInfoById(1));
     }

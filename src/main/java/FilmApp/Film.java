@@ -4,6 +4,7 @@ public class Film {
     int filmId;
     String name;
     int genreId;
+
     int studioId;
 
     public Film(int filmId, String name, int genreId, int studioId) {

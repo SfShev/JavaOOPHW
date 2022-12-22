@@ -15,6 +15,7 @@ public class FilmFinder {
         return String.format("ID: %d, Название: %s, Жанр: %s, Студия: %s",
                 film.filmId,
                 film.name,
+
                 db.genres.get(film.genreId - 1).name,
                 db.studios.get(film.studioId - 1).name);
     }
